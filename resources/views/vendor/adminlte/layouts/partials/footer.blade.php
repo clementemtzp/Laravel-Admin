@@ -1,9 +1,6 @@
-<!-- Main Footer -->
 <footer class="main-footer">
-    <!-- To the right -->
     <div class="pull-right hidden-xs">
-        <a href="https://github.com/acacha/adminlte-laravel"></a><b>admin-lte-laravel</b></a>. {{ trans('adminlte_lang::message.descriptionpackage') }}
+        <a href="http://emtycorp.com.mx/software/stmmanager"><b>STM</b>Manager</a>. Sistema de Transparencia Municipal
     </div>
-    <!-- Default to the left -->
-    <strong>Copyright &copy; 2015 <a href="http://acacha.org">Acacha.org</a>.</strong> {{ trans('adminlte_lang::message.createdby') }} <a href="http://acacha.org/sergitur">Sergi Tur Badenas</a>. {{ trans('adminlte_lang::message.seecode') }} <a href="https://github.com/acacha/adminlte-laravel">Github</a>
+    <strong>Copyright &copy; 2017 <a href="http://emtycorp.com.mx">Grupo Emtycorp</a>.</strong> Creado por <a href="http://emtycorp.com.mx/software">Emty Software</a>.
 </footer>
